@@ -1,0 +1,31 @@
+.cd-toolbar li.space {
+  content: "/";
+  width: 5px;
+  margin-left: 5px;
+  border-left: 2px solid #000;
+}
+
+.form-select {
+  padding-right: 30px !important;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+  padding: 5px;
+}
+
+img {
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+}
+
+.cd-toolbar {
+  padding: 0px;
+}
+
+#container-toolbar {
+  /* padding-top: 0px; */
+  padding-bottom: 0px;
+}
